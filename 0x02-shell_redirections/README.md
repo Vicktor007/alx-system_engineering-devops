@@ -10,3 +10,4 @@ what about 2- Display the content of /etc/passwd and /etc/hosts
 duplicate last line
 deleting all js files
 counting directories
+12-a script that displays the 10 newest files in the current directory.
