@@ -7,3 +7,4 @@ what about 2- Display the content of /etc/passwd and /etc/hosts
 6.third line- displaying the third line
 7-file
 8-cwd-state
+duplicate last line
