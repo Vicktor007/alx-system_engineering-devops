@@ -8,3 +8,4 @@ what about 2- Display the content of /etc/passwd and /etc/hosts
 7-file
 8-cwd-state
 duplicate last line
+deleting all js files
